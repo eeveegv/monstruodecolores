@@ -1,0 +1,14 @@
+
+header{
+    display: flex;
+    border-bottom: 1px solid #D1C7B8;
+    height:110px;
+    width: 376px
+
+}
+h1::before{
+    content: url("https://cdn-icons-png.flaticon.com/512/2421/2421033.png");
+    width: 5px; 
+    height: 5px;
+    border-radius: 50%
+}
